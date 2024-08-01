@@ -1,0 +1,23 @@
+.team{
+
+text-align: center;
+background-color: salmon;
+height: 240px;
+
+}
+
+
+.shahd{
+
+float:left;
+width: 33.3%;
+
+}
+
+
+.clearfix{
+
+clear:left;
+
+
+}
